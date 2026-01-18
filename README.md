@@ -33,6 +33,6 @@ Embedded and systems engineer with deep experience in RTOS and OS development. E
 ---
 
 ## Projects
-- [nostr-rs-relay-setup](https://github.com/deymosh/nostr-rs-relay-setup) — nostr-rs-relay + nostr-relay-dashboard. Setup and integration for running a nostr relay with a dashboard; useful for deployment and experimentation with relay tooling.
+- [nostr-relay](https://github.com/deymosh/nostr-relay) — nostr-rs-relay + proxy-dashboard. Setup and integration for running a nostr relay with a dashboard; useful for deployment and experimentation with relay tooling.
 
 ---
